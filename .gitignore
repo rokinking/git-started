@@ -47,4 +47,7 @@ $RECYCLE.BIN/
 *.lnk
 *.tmp
 
+# folder ignore
+temp/
+
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,windows
